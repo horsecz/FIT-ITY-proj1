@@ -1,2 +1,4 @@
-# FIT-ITY-proj1
-Projekt 1 do ITY (hodnoceno 7.1 / 10)
+# ITY - projekt 1
+
+# Hodnoceni
+- 7.1 / 10
